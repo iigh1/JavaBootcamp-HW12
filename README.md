@@ -2,7 +2,7 @@ JavaBootcamp-HW12
 
 Question 1
 
-no output 
+hey from massage1
 
 Question 2
 
